@@ -1,4 +1,5 @@
 # ⚡️John Romero's Famous Programming Mantras
+https://romerogames.com
 
 ## Principle 1: No prototypes
 No prototypes. Just make the game. Polish as you go. Don't depend on polish happening later. Always maintain constantly shippable code.
